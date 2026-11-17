@@ -1,0 +1,10 @@
+{
+  "name": "schreihuhn_core",
+  "version": "1.0.0",
+  "description": "Platform-independent C++17 game core for SCHREIHUHN",
+  "build": {
+    "flags": [
+      "-Iinclude"
+    ]
+  }
+}
